@@ -1,1 +1,4 @@
 An interface to allow PC communication with buzzers from the PlayStation game "Buzz!"
+
+
+Uses the usb4java library to handle USB data communications
